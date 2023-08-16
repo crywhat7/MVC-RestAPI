@@ -1,0 +1,34 @@
+{
+  "name": "mvc-restapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crywhat7/MVC-RestAPI.git"
+  },
+  "keywords": [
+    "API",
+    "REST",
+    "MVC",
+    "EXPRESS",
+    "PROJECT"
+  ],
+  "author": "CryWhat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crywhat7/MVC-RestAPI/issues"
+  },
+  "homepage": "https://github.com/crywhat7/MVC-RestAPI#readme",
+  "devDependencies": {
+    "nodemon": "3.0.1"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "4.18.2"
+  }
+}
